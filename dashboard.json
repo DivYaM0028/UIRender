@@ -1,0 +1,307 @@
+{
+    "Choose_Error": [
+        "Research Article : Method Titles ",
+        "Research Article: Figure",
+        "Theses:Figure and Tables",
+        "Theses: Figure"
+    ],
+    "Choose_Institute": [
+        "University of Hyderabad",
+        "SRI KRISHNADEVARAYA UNIVERSITY",
+        "DEPARTMENT OF LIFE SCIENCE & BIOINFORMATICSHAR GOBIND KHORANA SCHOOL OF LIFE SCIENCESASSAM UNIVERSITY, SILCHAR",
+        "BHARATHIDASAN UNIVERSITY",
+        "Madurai Kamaraj University",
+        "National Centre for Cell Science",
+        "NATIONAL INSTITUTE OF VIROLOGY",
+        "UNIVERSITY OF PUNE",
+        "NATIONAL INSTITUTE OF IMMUNOLOGY",
+        "University of North Bengal",
+        "BHARATI VIDYAPEETH DEEMED UNIVERSITY, PUNE",
+        "Shri Ram Institute for Industrial Research",
+        "JAWAHARLAL NEHRU UNIVERSITY",
+        "Guru Nanak Dev University",
+        "SAURASHTRA UNIVERSITY",
+        "AMITY UNIVERSITY",
+        "University of Calcutta",
+        "CENTRAL DRUG RESEARCH INSTITUTE",
+        "Department of Botany and Microbiology Acharya Nagarjuna Universit",
+        "DEPARTMENT OF BIOCHEMISTYACHARYA NAGARJUNA UNIVERSITY",
+        "INTERDISCIPLINARY SCHOOL OF HEALTH SCIENCE,SCIENCES FACULTYUNIVERSITY OF PUNE,GANESHKHIND",
+        "University of Madras",
+        "Central University of Punjab",
+        "Centre forBiosciencesSchool of Basic and Applied SciencesCentral University of Punjab, Bathinda",
+        "BIOCHEMICAL SCIENCES DIVISION NATIONAL CHEMICAL LABORATORY",
+        "INSTITUTE OF GENOMICS AND INTEGRATIVE BIOLOGY",
+        "Hamdard University",
+        "CH. CHARAN SINGH UNIVERSITY, MEERUT (UP",
+        "JAW AHAR LAL NEHRU UNIVERSITY",
+        "Department of Zoology and Aqua CultureAcharya Nagarjuna University",
+        "Sardar Patel University,Vallabh vidyanagar",
+        "AUIGARH MUSLIM UNIVERSITY",
+        "ALIGARH MUSLIM UNIVERSITY",
+        "Anna University Tiruchirappalli",
+        "UNIVERSITY  OF  BURDWAN",
+        "Bhabha Atomic Research Centre, Mumba",
+        "Kuvempu University, Jnana Sahyadri",
+        "UNIVERSITY OF CALICUT",
+        "Tezpur University,"
+    ],
+    "Figures_and_Tables_From_Research_Article": "0",
+    "Figures_and_Tables_From_Thesis": "0",
+    "Method_Matching": "0",
+    "Research_Article_Found": "0",
+    "Reuse_Recipe_Docs": "0",
+    "Thesis_Annotated": "48",
+    "Thesis_Data": [
+        {
+            "Errors": "Errors_Not_known",
+            "Institute": "University of Hyderabad",
+            "Research_Article": [
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                },
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                }
+            ],
+            "Reuse_Recipe_Doc": [
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                },
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                }
+            ],
+            "Thesis_Title": "PRIMARY DETERMINANTS OF REACTION SPECIFICITY OF MURINE 12(R)-LIPOXYGENASE:SITE-DIRECTED MUTAGENESIS STUDIES"
+        },
+        {
+            "Errors": "Errors_Not_known",
+            "Institute": "SRI KRISHNADEVARAYA UNIVERSITY",
+            "Research_Article": [
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                },
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                }
+            ],
+            "Reuse_Recipe_Doc": [
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                },
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                }
+            ],
+            "Thesis_Title": "Studies on Silver Nanoparticles: In Vitro Induction of Cytotoxicity andApoptosis in Selected Cancerous Cell Lines"
+        },
+        {
+            "Errors": "Errors_Not_known",
+            "Institute": "DEPARTMENT OF LIFE SCIENCE & BIOINFORMATICSHAR GOBIND KHORANA SCHOOL OF LIFE SCIENCESASSAM UNIVERSITY, SILCHAR",
+            "Research_Article": [
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                },
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                }
+            ],
+            "Reuse_Recipe_Doc": [
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                },
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                }
+            ],
+            "Thesis_Title": "CYPERACEAE OF SOUTHERN ASSAM WITH REFERENCE TO PHYTOCHEMICAL SCREENING OF SOME SELECTED PLANTS"
+        },
+        {
+            "Errors": "Errors_Not_known",
+            "Institute": "BHARATHIDASAN UNIVERSITY",
+            "Research_Article": [
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                },
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                }
+            ],
+            "Reuse_Recipe_Doc": [
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                },
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                }
+            ],
+            "Thesis_Title": "EPIDIDYMIS AS A TARGET FOR AFLATOXIN TOXICITY"
+        },
+        {
+            "Errors": "Errors_Not_known",
+            "Institute": "Madurai Kamaraj University",
+            "Research_Article": [
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                },
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                }
+            ],
+            "Reuse_Recipe_Doc": [
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                },
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                }
+            ],
+            "Thesis_Title": "IMMUNOMODULATORY EFFECT OF NYCTANTHES ARBOR-TRISTISL. SEED EXTRACTS IN OREOCHROMIS MOSSAMBICUS(PETERS"
+        },
+        {
+            "Errors": "Errors_Not_known",
+            "Institute": "National Centre for Cell Science",
+            "Research_Article": [
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                },
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                }
+            ],
+            "Reuse_Recipe_Doc": [
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                },
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                }
+            ],
+            "Thesis_Title": "ROLE OF INTERLEUKIN-4 IN BONE REMODELLING"
+        },
+        {
+            "Errors": "Errors_Not_known",
+            "Institute": "NATIONAL INSTITUTE OF VIROLOGY",
+            "Research_Article": [
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                },
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                }
+            ],
+            "Reuse_Recipe_Doc": [
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                },
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                }
+            ],
+            "Thesis_Title": "PROHLE OF ANTIBODY RESPONSE IN DENGUE INFECTED INDIVIDUALS TO DIFFERENT VIRAL PROTEINS AND ITS RELATION TO DISEASE SEVERTIY"
+        },
+        {
+            "Errors": "Errors_Not_known",
+            "Institute": "UNIVERSITY OF PUNE",
+            "Research_Article": [
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                },
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                }
+            ],
+            "Reuse_Recipe_Doc": [
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                },
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                }
+            ],
+            "Thesis_Title": "STUDY OF CHRONOBIOLOGICAL VARIATIONS IN THE EFFECTS OF IMMUNOMODULATORY AGENTS"
+        },
+        {
+            "Errors": "Errors_Not_known",
+            "Institute": "NATIONAL INSTITUTE OF IMMUNOLOGY",
+            "Research_Article": [
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                },
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                }
+            ],
+            "Reuse_Recipe_Doc": [
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                },
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                }
+            ],
+            "Thesis_Title": "Molecular analysis of immune response to Streptococcus pneumoniae capsular polysaccharide"
+        },
+        {
+            "Errors": "Errors_Not_known",
+            "Institute": "University of North Bengal",
+            "Research_Article": [
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                },
+                {
+                    "DOI": "10.7554/eLife.46149",
+                    "DOI_Title": "Article Title1"
+                }
+            ],
+            "Reuse_Recipe_Doc": [
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                },
+                {
+                    "URL": "URL",
+                    "URL_Title": "Created Date"
+                }
+            ],
+            "Thesis_Title": "STUDY OF IMMUNE STATUS IN HEPATIC DISORDERS AND EFFECT OF ASCORBIC ACID AND ZINC SUPPLEMENT"
+        }
+    ]
+}
